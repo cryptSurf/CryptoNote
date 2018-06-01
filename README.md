@@ -1,0 +1,2 @@
+# CryptoNote
+Security framework (Keychain)
